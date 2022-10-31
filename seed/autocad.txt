@@ -1,0 +1,208 @@
+
+Autocad
+Course Duration: 40 hours
+Objective
+
+AutoCAD is a software application that is essentially a computer-aided design used for designing and drafting 2D and 3D drawings. It was first launched in 1982 as a desktop application and as a mobile web-based application since 2010. AutoCAD is used for various purposes from creating a simple diagram/drawing to managing the entire set of drawings to create architecturally sound and attractive presentations. It is a widely used tool in the mechanical and civil engineering, architecture sector making it the world’s no.1 computer-aided design.
+About Course
+
+AutoCAD is by far the most widely used CAD software for the production of engineering, architectural, and construction drawings. So, if you are in the industry you won’t be able to escape AutoCAD. However, that is a good thing as learning
+AutoCAD has a wide range of benefits. The objective of AutoCAD training is to create basic 2D and 3D drawings and designs using AutoCAD software. This is a fundamental course; however, at this level too, learning AutoCAD is a challenging one. So we have developed a model that uses theoretical knowledge and application of that knowledge. A wide variety of examples and practices are taken from real-world working scenarios. There are no standard requirements for learning AutoCAD. It is a designing/drafting tool anyone with basic computer knowledge, internet connection, and AutoCAD software can use after the training.
+Course Overview
+
+2D Drawing Construction
+
+    Loading AutoCAD, Screen Organization
+    Entering AutoCAD Commands, Menus, Command-Line, Function Keys
+    Coordinate System, entering, distance and angles
+    Basic drawing commands: (point, line, arc, circle, polygon, ellipse, donut, line)
+    Starting a new drawing, naming and saving, ending session, ray, multiline, sketch
+
+Drawing Aids In Auto CAD
+
+    Units limits, status, snap, grid, ortho, rotated snap, osnap, and options.
+    Flipmode, use of function keys layers, right-click customization
+    Managing drawing files (end, save quit, files rename)
+
+Drawing Tools In Auto CAD:
+
+    Help, undo and u, redo, point, filters
+    Display commands: regenauto, Zoom,pan, redraw, redrawall, regen, regenall,
+    View, viewers
+    Calculator /Geometric Calculator
+
+Modifying Commands In AutoCAD
+
+    Erase, offset, oops, copy, scale array, move, break, trim, fillet, chamfer, mirror,
+    Rotate, pedit, select, pdsize, pdmode, (point style), setvar, stretch extend, useof
+    Grips, change, chdrop, explode, divide, match property
+
+Getting Information In AutoCAD
+
+    Units limits, status, snap, grid, ortho, rotated snap, osnap and options.
+    Blipmode, use of function keys layers, right-click customization
+    Managing drawing files (end, save quit, files rename)
+
+Working With In AutoCAD
+
+    Text, dtext, justifying text, text fonts, ddedit, ehtext, ddmodify, style, qtext,
+    Special text
+
+Grouping In AutoCAD
+
+    Dimension styles, dimensioning commands, tolerance, limits, dimension setup,
+    Dimension variables, dimension scale
+
+Plotting Drawings
+
+    Device information
+    Pen arrangements
+    Other parameters, paper size, and orientation
+    Scale, rotation and origin, paper space
+    Model space, tile mode, Mview, vplayeer, zoom xp.
+
+3D Basics
+
+        Axes, Planes, and Faces
+        3D Workspaces, Ribbon, Toolbars, and 3D Options
+        Entering and Exiting 3D
+        Projecting into 3D
+        3D Dynamic Views
+        Extrude
+        Visual Styles: Hide and Shade
+        View Cube and Navigation Bar
+
+Primitives
+
+    Introduction to Primitives
+    Box
+    Wedge
+    Cone
+    Sphere
+    Cylinder
+    Torus
+    Pyramid
+    Applying Primitives
+
+Object Manipulation
+
+    Introduction to Object Manipulation
+    Rotate3D
+    3Drotate (Gizmo)
+    Mirror3D
+    3Darray
+    3Dscale
+    3Dmove
+    Fillets and Chamfers in 3D
+
+Boolean Operations
+
+    Introduction to Boolean Operations
+    Union
+    Subtract
+    Intersect
+    3D Modelling
+    Exercise: Building Wall with Door and Window
+
+Solid Modelling
+
+    Introduction to Solid Modelling
+    Revolve
+    Shell
+    Taper
+    3D Modelling Exercise: Wastebasket
+    Loft
+    3D Modelling Exercise: Mechanical Drill Bit
+    Path Extrusion
+    Sweep
+    Drawing Challenge: Helical Coil
+
+Advanced Solids, Faces, And Edges
+
+    Introduction to Advanced Solids, Faces, and Edges
+    Poly-solid
+    Helix
+    3D Path Array
+    3Dalign
+    Working with Faces
+    Delete Faces
+    Move Faces
+    Copy Faces
+    Offset Faces
+    Rotate Faces
+    Colour Faces
+    Working with Edges
+    Colour Edges
+    Copy Edges
+    Helical Coil Explained
+
+Surfaces And Meshes
+
+    Introduction to Surfaces and Meshes
+    Surfacing Commands
+    Planar Surface
+    Region
+    Rule surf
+    Tab surf
+    Rev-surf
+    Edge surf
+    3Dface and 3Dmesh
+    Smooth Mesh Primitives
+    Mesh Modification 1. Smoothness
+    Mesh Modification 2. Filters and Gizmos
+    Mesh Modification 3. Additional Tools
+
+UCS, V-Ports, Text, And Dimensions In 3D
+
+    Introduction to UCS, V-ports, Text, and Dimensions in 3D
+    Advanced UCS
+    UCS
+    World
+    UCS Previous
+    Face UCS
+    Object
+    View
+    Origin
+    Z-Axis Vector
+    3 Point
+    X, Y, and Z
+    Named UCS
+    Views and View Manager
+    V-ports
+
+Dynamic View
+
+    Camera
+    Target
+    Distance
+    Points
+    Pan
+    Zoom
+    Twist
+    Clip
+    Hide
+    Off
+    Undo
+
+Cameras
+
+    Walk and Fly
+    Path Animation
+    Action recorder
+
+Lighting And Rendering
+
+    Introduction to Lighting and Rendering
+    Lighting
+    Point Light
+    Spotlight
+    Distant Light
+    Shadows, Sun, and Sky.
+    Materials and Rendering. Materials
+    Rendering
+
+Projects
+
+    Virtual Project – Residential
+    Real project – Residential
+

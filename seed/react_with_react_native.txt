@@ -1,0 +1,24 @@
+
+REACT WITH REACT NATIVE
+Course Duration: 40 hours
+Objective
+
+As an emerging technology adopted by Facebook, Instagram, AirBnB etc., React Native framework has become a popular choice among app developers because of its flexibility and efficiency. Thus, we provide career-oriented React Native training to make students familiar with React Native development techniques from the qualified and experienced React Native developers. After the training, the students can start their career in cross-platform mobile apps development.
+About Course
+
+React Native training course helps you develop native apps on Android and iOS platforms and enhances your web development skills. Skill hub offers world-class React Native training in Nepal to guide aspiring app developers build cross-platform mobile apps without having prior knowledge of Swift, Objective C, and Java. Mostly, the students and app development professionals passionate about emerging technologies are the prime audience of React Native course. 
+Course Overview
+
+    Introduction
+    Environment setup for app development
+    Overview of react native
+    Overview of es6
+    React components 
+    State management
+    Qorking with views
+    Advanced concept
+    Async programming
+    Networking
+    Building native android components
+    Project
+

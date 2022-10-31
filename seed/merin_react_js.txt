@@ -1,0 +1,130 @@
+
+Merin React JS
+Course Duration: 40 hours
+Objective
+
+The React JS is an widely used application tool for front-end development. It is a JavaScript framework for building highly interactive web and mobile applications and offers a large amount of inbuilt components and APIs. This course is targeted for JavaScript and React developers who aspire to learn and have a career in developing fields.
+About Course
+
+Merin React JS is a JavaScript framework that offers a diverse number of inbuilt components and APIs for building highly interactive web and mobile applications. In this course, you will learn to:
+
+    Understand and develop best practices of ReactJS in front-end development
+    Become familiar with essential developer tools
+    Develop highly interactive web and mobile applications
+    Acquire skills to integrate React with other technologies
+    Create interactive and data-driven user interfaces
+    Learn to render React on server
+
+Course Overview
+
+Introduction
+
+    React v16, Redux, Webpack, and React-Router v4
+    Objectives
+    Scopes of this technology in real-world
+
+Environment Setup
+
+    Installing Node and NVM
+    Project Setup (Examples)
+
+Brief Introduction to JavaScript
+
+    Introduction to programming
+    Introduction to debugging
+    Variables
+    Operation and Operands with its precedence
+    Comments
+    Arrays and its types
+
+Functions
+
+    Introduction to Functions
+    Parameters and Arguments
+    Control Flow in Function Execution
+    Scope of Variables
+    Recursion (Definition)
+
+Conditionals and Looping
+
+    Conditionals
+    If Statement
+    If-else Statement
+    If-else if-else Statement
+    Nested If-else Statement
+    Iterations
+    For loop
+    While loop
+    Do-while loop
+    Break and continue
+    For-in loop
+    For-of loop
+    Understanding with Stack Diagrams
+    Importing and Exporting Components
+
+Key Technologies
+
+    Babel
+    JSX
+    Webpack
+    Express
+
+ES6 Overview
+
+    Constants
+    Scope
+    Arrow Functions
+    Parameter Handling
+    String literals
+    Enhanced Object Properties
+    Destructuring
+    Importing/Exporting Modules
+    Classes
+    Inheritance
+    Method Overriding
+    Map/Set
+    Promises
+
+React Components
+
+    Getting started with React
+    Working out with examples
+    React Components
+    States
+    Properties
+    Counter App using States
+    Functional Components
+    React Component Lifecycle Methods
+    Higher-Order Components
+    Building reusable components using Recompose
+
+React Router
+
+    Introduction
+    Setup react router to handle routes
+    Server-side Rendering
+    Server-side and Client-side Rendering (Comparison)
+
+State Management
+
+    Flux Architecture
+    State management using Redux
+    Reducers
+    Action Creators
+    Epics
+    Thunks
+
+Reactive Programming Practice using RXJS O
+
+    Introduction to RXJS
+    Use Cases of RXJS
+    Implementation with Examples
+
+Node JS
+
+    Overview of Node JS
+    REPL Terminal
+    NPM
+    Event Loop, Callback, Promises
+    Async, Await
+    Express Framework

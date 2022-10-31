@@ -1,0 +1,89 @@
+
+CISCO
+Course Duration: 60 hours
+Objective
+
+CISCO training course is designed to build a foundation for producing globally competent network engineers, network administrators and network technicians. CISCO training is targeted to learners who aspire to be successful network technicians and professional system engineers. The course is drafted by acknowledging details regarding knowledge of Fundamentals of Routing and Networking, and Understanding basic aspects of network security.
+About Course
+
+This course addresses the information for the architecture, structure, functions, components, and models of the Internet and other computer networks by using OSI and TCP layered models to test the nature and roles of protocols and services at the application, network, data link, and physical layers. Packet Tracer (PT) is a powerful network simulation tool that includes activities helping students analyze protocol and network operation and build small networks in a simulated environment. By the end of the course, the students will be able to build simple LAN topologies based on the principles of cabling. In this course you will be able to learn:
+
+    Handling CISCO routers and switches
+    Configure, verify and troubleshoot CISCO devices
+    Identify network security threats and ways to mitigate them
+
+ 
+Course Overview
+
+Network Fundamental
+
+    Understanding the role and function of network components
+    Routers
+    L2 and L3 Switches
+    Next generation firewalls and IPS
+    Access Points
+    Controllers WLC
+    Endpoints
+    Servers
+    Understanding the features of network topology architectures
+    2 tier
+    3 tier
+    Spine-leaf
+    WAN
+    Small Office/Home Office (SOHO)
+    On-premises and Cloud
+    Comparison of physical interface and cabling types
+    Identify interface and cable issues
+    TCP and UDP (Comparison)
+    Configure and verify IPV4 addressing and subnetting
+    Understanding the need for private IPv4 addressing
+    Configure and verify IPv6 addressing and prefix
+    Compare IPv6 address type
+    Verify IP parameters for Client OS (Windows, Mac OS, Linux)
+    Understanding wireless principles
+    Understanding Switching Concepts
+
+Network Access
+
+    Configuration and verification of VLANs spanning multiple switches
+    Configuration and verification of Interswitch connectivity
+    Configuration and verification of iLayer 2 Discovery Protocol (CDP and LLDP)
+    Configuration and verification of Layer2/Layer3 Etherchannel (LACP)
+    Describe the need and basic operation of Spanning Tree Protocol (CST, Rapid PVST+)
+    Wireless Architectures
+
+Connecting IP
+
+    Component of Routing Table
+    Understanding the router forwarding decision
+    Configuration and verification of IPv4 and IPv6 static routing
+    Configuration and verification of single area OSPFv2
+    Purpose of first-hop redundancy protocol
+
+IP Services
+
+    Configuration and verification of inside source NAT using static and pools
+    Configuration and verification of NTP operation in a client and server mode
+    Explain the role of DHCP and DNS within the network
+    Explain the function of SNMP in network operations
+    Use of Syslog features including facilities and levels
+    Configuration and verification of DHCP client and relay
+    Explain the QoS such as classification, marking, queuing, congestion, policing, shaping
+    Configuration and verification of device for remote access using SSH
+    Describe the capabilities and function of TFTP/FTP in the network
+
+Security Fundamentals
+
+    Introduction to key security concepts (threats, vulnerabilities, exploits and mitigation techniques)
+    Introduction to security program elements
+
+Automation and Programmability
+
+    Concept of automation and its impact on network management
+    Comparison of traditional networks with controller-based networking
+    Comparison of device management with traditional campus device management with Cisco DNA center enable device
+    characteristics of REST-based API
+    Recognizing the capabilities of configuration management mechanism
+    Puppet, Chef, and Ansible
+    Interpretation of JSON encoded data
+

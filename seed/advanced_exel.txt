@@ -1,0 +1,185 @@
+
+Advanced Excel
+Course Duration: 80 hours
+Objective
+
+Microsoft Excel is a basic spreadsheet tool that can be used for calculations, graphical representation and analysis, and tabular representation. However, that is just the tip of the iceberg. In-depth, it has way more features that allow you to create forms, macros, and automate complex tasks. Advanced MS-Excel Training course is targeted for data analysts, business managers, accountants, research scientists, students, and other professionals for enhancing their analytical skills and strategic decision-making ability. The course aims to familiarize trainees with advanced MS-Excel features performing complex business operations and overall management functions.
+About Course
+
+With the help of the course, you get familiar with the advanced features and functions of MS- Excel spreadsheet. You learn how to do complex calculations and data analysis processes using various MS-Excel tools. You get practical knowledge on using advanced MS-Excel features in business environments. Since there is a high demand for data analysis.
+Advanced Excel VBA Programming tutorials are for advanced users who are comfortable with the Basics and VBA programming concepts. In this section you will learn how to develop the Forms and interact with the other applications, handling the files and other advanced VBA programming concepts. By end of these sessions, you will be comfortable with VBA and be confident to develop the tools to automate complex tasks. And will be able to create complex dashboards. Our VBA Advanced course is specially designed considering market needs in mind. Going through this course, you will learn how even simpler tools as visual basic editors can be used to perform complicated organizational tasks. By the end of this course, you will have learned:
+
+    Fundamentals of Visual Basic Editor, Macros and their relationships
+    Understand and create modules and procedures, various conditional and looping structures, objects, and Events • Pin-pointing errors, setting breakpoints to minimize errors, and use debugging tools to detect and breakthrough
+    Declare and use variables, constants, and functions
+    Learning advance Excel functions for data analysis and solving complex problems
+    Advance financial calculations
+    Working with Macros
+    Create and control forms, charts, arrays, Pivot Table message boxes, and input boxes
+    VBA Password protection, setting up and implementing Macro Security
+
+Course Overview
+
+Recording Macros
+
+    Recording and Running Macros
+    Recording a Macro
+    Running a Macro
+    Adding a Macro/Procedure to the Quick Access Toolbar
+    The Personal Macro Workbook
+    Saving the Personal Macros
+    Editing a Personal Macro
+    Assigning Personal Macros to the Toolbar
+
+Working with the Visual Basic Editor
+
+    Introducing Visual Basic for Applications
+    Editing Macros in Visual Basic Editor
+    Understanding the Development Environment
+    Protect/Lock Excel VBA Code
+    Using Help
+
+Developing with Procedures
+
+    Understanding and Creating Modules
+    Defining Procedures
+    Naming Procedures
+    Creating a Sub-Procedure
+    Working Using the Code Editor
+
+Managing Program Execution
+
+    Defining Control-Of-Flow structures
+    Using Boolean Expressions
+    Using the IfEnd If Decision Structures
+    Using the Select CaseEnd Select Structure
+    Using the DoLoop Structure
+    Using The ForNext Structure
+    Using the For EachNext Structure
+    Guidelines for Use Of Control-Of-Flow Structures
+
+Debugging the Code
+
+    Understanding Errors
+    Using Debugging Tools
+    Identifying the Value of Expressions
+    Setting Breakpoints
+    How to Step Through Code
+    Working with Break Mode during Run Mode
+    Using the Immediate Window
+
+Understanding Objects
+
+    Defining Objects
+    Examining the Excel Object Hierarchy
+    Defining Collections
+    Referencing Objects in a Collection
+    Using the Object Browser
+    Working with Properties
+    The With Statement
+    Working With Methods
+    Event Procedures
+
+Using Intrinsic Functions, Variables, and Expressions
+
+    Defining Expressions and Statements
+    Expressions
+    Statements
+    How to Declare Variables
+    Naming Variables
+    Assigning Values To Variables
+    Declaring Variables Explicitly
+    Determining Data Types
+    Programming with Variable Scope
+    Harnessing Intrinsic Functions
+    Defining Constants and Using Intrinsic Constants
+    Using Intrinsic Constants
+
+Creating User-Defined Functions
+
+    Creating a Function Procedure
+    Calling a UDF
+    Using a function within an Excel Workbook
+
+Message Boxes and Input Boxes
+
+    Defining VBA’s Error Trapping Options
+    Capturing Errors with the On Error Statement
+    Determining the Err Object
+    Coding an Error-Handling Routine
+    Using Inline Error Handling
+
+Handling Errors
+
+    Defining VBA’s Error Trapping Options
+    Capturing Errors with the On Error Statement
+    Determining the Err Object
+    Coding an Error-Handling Routine
+    Using Inline Error Handling
+
+Creating Forms and Controls
+
+    Defining UserForms
+    Utilizing the Toolbox
+    Using UserForm Properties, Events, and Methods
+    Properties
+    Events
+    Understanding Controls
+    Naming Conventions
+    Setting Control Properties in the Properties Window
+    Using the Label Control
+    Using the Text Box Control
+    Using the Command Button Control
+    Using the Combo Box Control
+    Using the Frame Control
+    Using Option Button Controls
+
+Working with Ranges
+
+    What is a Range?
+    Range Property of the Application
+    Cells Property
+    The SpecialCells Method
+    Naming Ranges
+    Working with Collections
+
+Charts
+
+    Creating charts from worksheet data
+    Key Properties and methods of the chart object
+    Creating Charts from Arrays
+
+PivotTable Object
+
+    Understanding PivotTables
+    Creating A PivotTable
+    Procedure
+    Using the PivotTable Wizard Method
+    Using PivotFields
+
+Working with Arrays
+
+    What is an Array
+    Array Sizes
+    One Dimensional Array
+    Arrays with Multiple Dimensions
+    A word about index numbers
+    Unbound and Lbound
+    Saving arrays in names
+
+Working with Procedures and Parameters
+
+    Procedure Arguments
+    Passing Arguments
+    Optional Arguments
+    Default Values
+    Passing arguments by value and reference
+
+Creating Add-Ins
+
+    VBA Password Protection
+    About Macro Security
+    Macro security settings and their effects
+    Change Macro Security Settings
+
+ 

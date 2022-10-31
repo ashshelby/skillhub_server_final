@@ -1,0 +1,87 @@
+
+Flutter App Development
+Course Duration: 80 hours
+Objective
+
+Flutter is an open-source UI application tool that can be applied to construct applications and projects on various platforms such as mobile, web, and desktop using a shared foundation. The motive behind the course structure is to enable developers to deliver high-performance apps that feel natural on different platforms, embracing differences where they exist while sharing as much code as possible. Withthe course as your guide by your side, you will be able to develop a seamlessly beautiful app with absolute efficiency.
+About Course
+
+The flutter app development course guides the learner through a robust dart programming language with a detailed overview of each component used for application programming, exploration of the database and its connections with an application, and in the end, assists them with their own custom app. In this course, you will learn to:
+
+    Overview of Flutter and Cross-Platform Mobile
+    Applications
+    Basics of Dart Programming Language
+    The building blocks, and structures of an application
+    Use of Widgets, Navigators, and different plugins
+    Use, Store, and Retrieve Data from a Database
+    Create different mobile applications on the basis of the aforementioned points.
+
+Course Overview
+
+Introduction and Installation
+
+    Introduction to Flutter
+    Introduction to cross-platform for mobile application
+    Project Structure
+
+Basics of Dart Programming Language
+
+    Working with Examples (“Hello World”)
+    Understanding Variables and Datatypes
+    Control flow statements
+    Functions
+    Comments
+    Imports and Classes
+    Async and Await
+
+Explore more about Flutter
+
+    Flutter Application with examples
+    Understanding Material
+    Project Structure
+    Concept of pub
+
+Understanding Widgets
+
+    Getting started with widgets
+    Text
+    Container
+    Row
+    Column
+    Buttons
+    Scaffold and many more.
+    Create custom widget
+
+List of Items
+
+    Use of Listviews
+    Use of List-View builder
+
+Navigation
+
+    Use of Navigator
+    Use of Routes
+    Naming Routes
+
+Basics of Stateful and Stateless Widgets
+
+    Introduction to stateless widgets
+    Introduction to stateful widgets
+    Understanding setstate
+
+Using plugins and packages
+
+    Install plugins on the application
+    Using plugins ( image picker, camera, etc)
+
+Data persistence
+
+    Shared Preferences
+    Use database
+
+HTTP request
+
+    Get data from the remote server
+    Work with data and creating data models
+
+ 

@@ -1,0 +1,12 @@
+add images column in vacancy - done
+remove "objective_data" column in course database -done
+remove all user features -done
+from instructor
+============
+make nullable
+* education of instructor
+* experience of instructor
+* learned_information
+make 
+overview_description in content
+

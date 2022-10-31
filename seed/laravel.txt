@@ -1,0 +1,107 @@
+
+Laravel
+Course Duration: 40 hours
+Objective
+
+Laravel is a widely used PHP framework that will encourage learners to install and handle laravel and wield it to implement powerful and dynamic web applications.
+About Course
+
+Laravel is a very popular PHP framework that will teach learners how to implement laravel to develop dynamic web applications. In this course, you will learn to:
+
+        In-depth understanding of MVC capabilities in Laravel Framework.
+        The flexibility of the web development process of programmers.
+        Data Security for the healthy development process.
+        Builds up the habit of staying up to date with new technologies.
+
+ 
+Course Overview
+
+Installing and setting up Laravel
+
+    Introduction to Laravel
+    Getting started with Composer
+    Install and use Composer
+    Installing laravel using composer
+    Install & Use of open source distributed version
+    control system GIT
+    Concept and use of Github
+    Configuring Laravel
+    Project Structure
+
+Routing
+
+    Types of Routing (Basic, Named, Grouped)
+    Routing Parameter
+    Handling invalid routes
+    Route Filtering with middleware
+
+Controllers
+
+    Introduction on Controller
+    Basic Controller
+    Restful Resource Controller
+    Controller Routing
+    Controller Middleware
+
+Requests
+
+    Attach Headers and Cookies to response
+    Response with View
+    Response with JSON
+    Response with file
+
+Response
+
+    Attach Headers and Cookies to response
+    Response with View
+    Response with JSON
+    Response with file
+
+Database
+
+    Introduction to Database
+    Migration
+    Schema Building
+    Migration Structure
+    Running Migration
+    Writing Migration
+    Seeding
+    Database Configuration
+    Running Raw SQL queries
+
+Model
+
+    Eloquent ORM
+    Defining Model
+    Retrieving Model
+    Insert and Update Model
+    Eloquent Relationships
+    Relationship Types (One to One, One to Many, Many to Many) 
+
+View
+
+    Passing Data into View
+    Sharing Data to all View
+    Blade Template Engine
+    Introduction
+    Template Inheritance
+    Data Displaying
+    Implement Control Structures
+
+Laravel Forms and HTML Components
+
+    Introduction
+    Basic Usage
+    CSRF Protection
+
+Laravel Services
+
+    Authentication to the Application
+    Configuring Auth Library
+    Moving from laravel 5 to 6 & 7
+    Artisan Console
+    Laravel Helpers
+    Exception Handling and Error Logging
+    Pagination
+    Validations and its approaches
+    Validation rules with associating messages

@@ -1,0 +1,137 @@
+
+Tableau
+Course Duration: 40 hours
+Objective
+
+Tableau is a widely renowned business intelligence (BI) and mapping functionality relied on by companies such as Amazon, Experian, and Unilever. The main objective behind using this software is its ease to explore, visualize and securely share data in the form of Workbooks and Dashbooks. Tableau has plot latitude and longitude coordinates that are used to connect spatial files like Esri Shapefiles, KML, and GeoJSON to present custom geography. The group geographics can be used to create custom territories or to apply custom geocoding to extend the existing geographic roles in the outcome. The built-in geo-coding allows the administrative areas (country, state, district), postal code, Airports, US Congressional Districts, and European Union Statistical areas to be allocated automatically.
+About Course
+
+Tableau is a powerful and widely used data visualization tool that is used in the Business Intelligence Industry. Get started and learn Tableau to analyze and display data so that better, more data-driven decisions are performed with the guidance of our experts. Tableau can create a wide range of different visualization techniques to interactively present the data and display insights. In this course you will be able to:
+
+    plot latitude and longitude coordinates to connect the spatial files Esri Shapefiles, KML, and GeoJSON to present custom geography.
+    Use group geographics that can be applied to create custom territories or to apply custom geocoding to extend the existing geographic roles in the outcome.
+
+Course Overview
+
+Getting Started
+
+    Introduction
+    The Tableau Interface
+    Distributing and Publishing
+
+Tableau Preparation
+
+    Introduction of Tableau Prep Builder
+    The Tableau Prep Builder Interface
+    The Input Step
+    The Cleaning Step
+    Group and Replace
+    The Profile Pane
+    The Pivot Step
+    The Aggregate Step
+    The Join Step
+    The Union Step
+    The Output Step
+    Tableau Prep Conductor
+
+Connecting to Data
+
+    Introduction of Data
+    Managing Metadata
+    Managing Extracts
+    Saving and Publishing Data Sources
+    Data Preparation with Text and Excel Files
+    Join Types with Union
+    Cross-database Joins
+    Data Blending
+    Additional Data Blending Topics
+    Connecting to PDFs
+    Connecting to Cubes
+
+Visual Analytics
+
+    Introduction of Visual Analytics
+    Drill Down and Hierarchies
+    Sorting
+    Grouping
+    Additional Methods to Group
+    Creating Sets
+    Working with Sets
+    Set Actions
+    Ways to Filter
+    Using the Filter Shelf
+    Interactive Filters
+    Where Tableau Filters
+    Additional Filtering Topics Parameters
+    Parameter Actions
+    Formatting
+    The Formatting Pane
+    Basic Tooltips
+    Viz in Tooltip
+    Trend Lines
+    Reference Lines
+    Forecasting
+    Clustering
+    Analysis with Cubes and MDX
+
+Dashboards and Stories
+
+    Getting Started of Dashboards and Stories
+    Building a Dashboard
+    Dashboard Objects
+    Dashboard Formatting
+    Dashboard Interactivity Using Actions
+    Dashboard Extensions
+    Device Designer
+    Story Points
+
+Mapping
+
+    Introduction of Mapping
+    Maps in Tableau
+    Editing Unrecognized Locations
+    Spatial Files
+    The Density Mark Type (Heat maps)
+    Expanding Tableau’s Mapping Capabilities
+    Custom Geocoding
+    Polygon Maps
+    Mapbox Integration
+    WMS: Web Mapping Services
+    Background Images
+
+Calculations
+
+    Introduction of Calculations
+    Calculation Syntax
+    Intro to Table Calculations
+    Modifying Table Calculations
+    Introduction to LOD Expressions
+    Aggregate Calculations
+    Date Calculations
+    Logic Calculations
+    String Calculations
+    Number Calculations
+    Type Calculations Conceptual Topics with LOD Expressions
+    Aggregation and Replication with LOD Expressions
+    Nested LOD Expressions
+    How to Integrate R and Tableau
+    Using R within Tableau
+
+Why Use Tableau?
+
+    Understand Pill Types
+    Measure Names and Measure Values
+    Aggregation, Granularity, and Ratio Calculations
+    When to Blend and When to Join
+    Filtering for Top Across Panes
+
+Publish to Tableau Online
+
+    Publishing to Tableau Online
+    Device Designer
+    Introduction to the Tableau JavaScript API
+    Publish to Tableau Server
+    Publishing to Tableau Server
+    Device Designer
+    Introduction to the Tableau JavaScript API
+

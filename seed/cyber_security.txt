@@ -1,0 +1,96 @@
+
+Cyber Security
+Course Duration: 50 hours
+Objective
+
+The course for Cyber-Security is designed in aiming to develop an innovative cyber-threat intelligence to gather, detect and mitigate platforms and to perform high-quality interdisciplinary research in key fields for addressing novel concepts and approaches to handle the challenges towards securing the ecosystem of IoT devices.
+About Course
+
+This course provides a deep understanding of cyber security including ethical hacking, ethical hacking phases, various attack vectors, preventing countermeasures, Bug Bunty Hunting, Penetration Testing, and Forensics. This course structure will enable the learners to understand the thinking and behaving methods of the hackers so that they can set up the security infrastructure and defend against future attacks. In this course you will be able to learn to:
+
+    Create a new paradigm for the next generation of cyber-security systems, especially suited for the IoT that will greatly increase the capability and strength of CIIs to counter threat actors and their methods.
+    Instantly detect and effectively respond to mitigate and handle sophisticated cyber-attacks by advancing the current state-of-the-art of numerous existing techniques and by introducing new ones
+
+Course Overview
+
+Introduction
+
+    Getting started with the Basics of Linux
+    Linux architecture
+    File directory architecture
+    Basic commands of Linux
+    Installation of Linux
+    Introduction to file password and shadow
+
+Operating System and Network Fundamentals
+
+    Hacking networks
+    VAPT
+    Tools for Information gathering
+    Secure network designs
+    OS and Database security
+    LINUX server hardening
+
+Understanding with Hacking Techniques
+
+    Windows server hardening
+    Understanding with Database Security
+    Hijacking windows with using RAT and Trojan
+    Web Application Security
+    Burp suite tool
+    SQL injection
+
+Vulnerabilities
+
+    Insecure direct object reference
+    Information leakage and improper error handling
+    Failure to restrict URL access
+    Request forgery attack and countermeasures
+    Remote code execution
+    Vulnerability study with Examples
+
+Secure Coding
+
+    RFI (Remote File Inclusion) & LFI (local file inclusion) vulnerability
+    Denial of service (DOS) and distributed denial of service (DDOS) attacks
+    Countermeasures of DoS and DDoS
+    Web platform security issues and countermeasures
+    Website code review and secure coding principles
+    FORENSICS
+
+Getting familiar with legal terms
+
+    Legal study of evidence acquisition
+    Disk-based forensics
+    Network Forensics
+    Data packet analysis
+    Browser forensics
+    USB forensics
+
+Forensics and Case Study
+
+    Memory analysis
+    Windows forensics
+    Tools based on forensic study
+    Deleted data recovery
+    Image Forensics
+    Case investigation
+
+Recovery and Firewalls
+
+    Evidence Recovery
+    Protocol standards
+    Firewalls
+    WLAN Security
+    Dead vs Live forensics
+    Computer Investigation process
+
+IT Laws and Acts
+
+    Investigating attacks
+    COMPLIANCE
+    Basic principles of assessment & auditing
+    IT LAWS and ACTS
+    ISO 27001:2005:2013 basics
+    PCI DSS
+

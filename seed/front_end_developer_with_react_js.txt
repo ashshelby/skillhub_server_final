@@ -1,0 +1,74 @@
+
+Front End Developer with React JS
+Course Duration: 110 hours
+Objective
+
+JavaScript is a loose type language and the syntax is similar to C programming. Being an event-driven programming language it provides features that we can use to interact with HTML elements in our webpage. It is really necessary to understand HTML Document Object Model properly to master JavaScript. After having a good concept of JavaScript, HTML, and basic CSS concepts you can start working on React.
+About Course
+
+The ReactJS training aims to provide essential tips to master ReactJS, the powerful JavaScript library. The web developers looking to excel their skills in front-end development are the target audience for React JS training in Nepal. We have introduced a ReactJS training course in the backdrop of rapidly increasing global demand for ReactJS developers. The course is designed in such a way that you will first be given the concept of HTML and CSS. After that, you will be introduced to the event-driven programming language JavaScript. Some of its features like events, DOM, built-in objects are very important concepts to understand the power of JavaScript. Finally, you will be introduced to React library and its features. You will develop an application in the front end using React library.
+Course Overview
+
+Welcome to Starting with React
+
+    Introduction
+    What is React?
+    How This Course Works
+    Preparing for React
+
+React Components
+
+    Section Introduction
+    Component Basics
+    Component Implementation
+    Component Composition
+    Composition Implementation
+    Section Conclusion
+
+React State and Props
+
+    Section Introduction
+    Managing Data in React
+    State and Props Implementation
+    Section Conclusion
+
+React Event Handling
+
+    Section Introduction
+    Reacting to Events
+    Event Handling Implementation
+    Section Conclusion
+
+Routing in React
+
+    Section Introduction
+    Applying Routing
+    Router Implementation
+    More Routing Concerns
+    More Routing Implementation
+    Section Conclusion
+
+React Flux
+
+    Section Introduction
+    The Flux Pattern
+    Implementing a Flux Store
+    More Flux Details
+    Implementing Flux Shoutouts 1
+    Implementing Flux Shoutouts 2
+    React Forms
+    Implementing a React Form
+    Section Conclusion
+
+Styling React
+
+    Section Introduction
+    Component-Level Styling
+    Applying Style
+    Flesh Out Characters
+    Section Conclusion
+
+Course Conclusion
+
+    Content Review
+

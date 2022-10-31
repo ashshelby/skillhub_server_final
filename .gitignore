@@ -1,0 +1,6 @@
+.env
+./__pyclass__
+./venv
+./__pycache__
+./images
+./images/logos

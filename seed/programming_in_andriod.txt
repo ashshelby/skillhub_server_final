@@ -1,0 +1,22 @@
+
+Android Programming
+Course Duration: 40 hours
+Objective
+
+Due to its open-source nature, working with the Android platform necessitates constantly learning about the Android platform. SkillHub’s Android development courses keep you ahead of this learning curve, with courses on Android operating systems and more.
+ 
+About Course
+
+Android Programming Level 1: this course is targeted for beginners who want to: Learn how to think and write a meaningful piece of code in ANDROID.  Learn how to read Android code that has been written by somebody else.  Learn how to map literary description of a problem (requirement) to an application/library coded in Android. In summary, this course teaches how to program using the Android programming language. This is a core basic level course that is essential for anyone who has no prior programming experience but wishes to be a professional Android engineer in future. Android Programming Level 2: The course is targeted for trainees: Who has had some prior beginner level hands-on programming experience in ANDROID programming language. Who have programming experience in some other programming language (e.g. Java, Obj-C, PHP, C, C++, etc.) and want to learn Android. Android Programming Level 3: This course is to prepare trainees for a career as Android software engineer.
+ 
+Course Overview
+
+    Basic Java
+    Overview of Android
+    Application Structure
+    Emulator-Android virtual device
+    Layout Design
+    UI Design
+    Preferences
+    Menu and intent
+

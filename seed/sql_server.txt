@@ -1,0 +1,82 @@
+
+SQL Server Database
+Course Duration: 40 hours
+Objective
+
+Microsoft SQL Server is a relational database management system (RDBMS) that supports a wide variety of transaction processing, business intelligence, and analytics applications in corporate IT environments. Microsoft SQL Server is one of the three market-leading database technologies, along with Oracle Database and IBM’s DB2.
+About Course
+
+It is a globally popular database course. In this course, we will have an understanding of SQL server security concerns and ways to tackle them. We will also have a thorough understanding of SQL Server Relational Engine, Integration Services, Reporting Services, and Analysis Services.
+This course teaches how to program using Database design and Implementation programming language. This is a core basic level course that is essential for anyone who has no prior programming experience but wishes to be a professional Database design and Implementation engineer in the future. There are no mandatory pre-requisites for this course. However, basic computer operation knowledge will be a plus.
+Course Overview
+
+Relational Database Fundamentals
+
+    Overview of Relational Database Concepts
+    Relational Databases and Relational Database Management Systems
+    Data Normalization
+
+Conceptual  Data Modeling 
+
+    Problems with File-based System
+    Concept of Data Model
+    3-Tier Architecture
+    Data Mapping
+    Data Model and its Types
+    THE RELATIONAL DATA MODEL
+    Data Modeling Using ERD
+    Problems of Using ERDs and Solutions
+
+EERD and Chen Notation
+
+    Relational Database Model Terminologies and their
+    Implementation
+    Database Relations and their Characteristics
+    Relational Keys and Integrity Constraints
+
+Relational Database Design
+
+    Database Design Methodologies,
+    Conceptual, Logical, and Physical Database Designs
+    Mapping ERD into Relational Schema
+
+Creating a Database
+
+    Database Development Methodology Overview
+    Building a Logical Data Model
+    Identifying Entities and Attributes
+    Isolating Keys
+    Relationships Between Entities
+    Creating Entity-Relationship Diagrams
+    Transforming to Physical Design
+    Migrating Entities to Tables
+    Selecting Primary Keys
+    Defining Columns
+    Enforcing Relationships with Foreign Keys
+    Constructing the Database Using DDL
+    Creating Tables, Indexes, Constraints, and Views
+    Dropping Tables, Indexes, Constraints, and Views
+    Modifying Tables, Indexes, Constraints, and Views DTC – Microsoft SQL Server 5
+
+Writing Basic SQL Queries
+
+    Displaying Table Structures
+    Retrieving Column Data from a Table or View
+    Selecting Unique Values
+    Filtering Rows Using the WHERE Clause
+    Sorting Results Using ORDER BY
+    Joining Multiple Tables
+    Using Column and Table Aliases
+
+Manipulating QUERY Results
+
+    Using Row Functions
+    Character
+    Numeric
+    Date and Time
+    Data Conversion (CAST and CONVERT)
+
+Using the CASE Function
+
+    Handling Null Values
+

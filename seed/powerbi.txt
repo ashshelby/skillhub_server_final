@@ -1,0 +1,61 @@
+
+Microsoft Power BI
+Course Duration: 40 hours
+Objective
+
+Microsoft Power BI is a data-visualization tool that allows professionals to create visual representations of complex data by ensuring them that they can communicate their performance statistics with their clients, over a variety of platforms, to make informed business decisions by easily connecting their data sources, visualizing and discovering what’s important, and sharing that with anyone or everyone they want.
+About Course
+
+Power BI Desktop is one of the widely used robust business intelligence systems for data modeling. It uses real-time Power BI dashboards used for filtering and presenting data from multiple channels and allows companies to have more access to their clients, activities, and the future. Our course structure regarding Power BI will help you begin a process with learning all about data, components for data visualization, analyzing tools and methods for data study, and sharing the work with the team members. In this course, you will learn the following topics:
+Course Overview
+
+Overview
+
+    Install Power BI Desktop 
+    Getting started with Power BI Desktop
+
+Connection with Data
+
+    Data Sources in Power BI Desktop
+     Connection to web data
+    Importing Excel Workbooks
+    Analysis of Tabular Data
+
+Shape and Combine Data
+
+    Getting started with Query
+    Shaping and combination of data
+    Data categorization
+    Relationship view
+    Creating and managing relationships in Power BI Desktop
+    Common query tasks
+
+Data Fundamentals
+
+    Understanding Data Type in Power BI Desktop
+    Measures in Power BI Desktop
+    Creating your own measures (Tutorials)
+    Calculated columns
+    Create calculated columns (Tutorials)
+    DAX Basics
+    Calculate tables
+
+Working with Reports
+
+    Viewing and understanding of Report View
+    Sorting by column
+    Tip and trick methods for creating reports
+    Import and display KPIs (Preview)
+
+Create Solutions
+
+    Import and analyze data from a web page (Tutorials)
+    Analyze sales data from Excel and an OData feed (Tutorials)
+    Understanding Facebook analytics
+
+Share your Work
+
+    Publish your work from Power BI Desktop
+    Understands Dashboards in Power BI
+    Share a dashboard from Power BI
+

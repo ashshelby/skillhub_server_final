@@ -1,0 +1,61 @@
+
+Statistical Programming in R
+Course Duration: 40 hours
+Objective
+
+R is a programming language and environment broadly used for data analysis and modeling due to its high flexibility in functional writing and coding of the statistics that fit with a variety of designs. It is quite similar to t S language and is often regarded to be a different execution of S. It is an open-source software providing diverse statistical and graphic techniques and has easy access to operating systems.
+About Course
+
+In this course, you will learn how to program in R and how to use R for effective data analysis. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
+
+ 
+Course Overview
+
+Introduction to R
+
+    What is R
+    Why Learn R
+    Features of R
+    R comparison with other languages
+    Applications of R
+    For whom R is
+    Installing R and R Studio
+
+Basic of R
+
+    Package
+    Reading data into R
+    Data Structures in R
+    Data Exploration and Manipulation
+
+Data Manipulation in detail
+
+    Dplyr
+    select(),filter()
+    arrange(), mutate()
+    summarise()
+    Splitting and merging columns
+    Spreading and gathering data
+
+Data Manipulation and aggregation of data
+
+    Dplyr – tidyverse
+    Filter details
+    count
+    summarise
+    summarise_all
+    group_by
+    Add_count
+
+Basic Plot in R
+
+    ggplot2 – line plot
+    ggplot2 – theme
+    Ggplot2-book sharing
+    data-wrangling
+
+Gateway to application Development in R
+
+    Introduction on shiny with data-table
+    Application showcase using leaflet.js
+    Wrapping up

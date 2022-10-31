@@ -1,0 +1,103 @@
+
+Complete Web Developer
+Course Duration: 110 hours
+Objective
+
+Complete Web Developer or a Full Stack Web Developer is a professional who can develop both client and server software. It is also regarded as a MERN Stack i.e. MongoDB, Express, React, and Node as the four key technologies that constitute up the stack. Moreover, with practicing HTML and CSS, they will understand programming a browser such as
+About Course
+
+Full Stack Web Development constitutes of MERN Stack ie. MongoDB, Express, React, Node as the four key technologies. There are multiple software development companies that offer expertise in MERN Stack. MongoDB where MongoDB is an open-source, cross-platform, and NoSql DBMS. Express where Express JS is a modular, lightweight framework of Node JS that helps in building web applications.
+Course Overview
+
+Complete Javascript Developer Courses
+
+    Getting Started with backend technologies
+    Introduction and understanding of JavaScript
+    programming language and technologies
+    Introduction to development tools
+    Text Editor, IDE
+    Command Prompt (command line)
+    Getting started with Git
+    Git workflow (branching, push, pull)
+    NPM,Yarn, Postman
+
+JavaScript Framework
+
+    Getting started with JavaScript
+    Introduction to Data types and variables
+    Conditionals branching and Loop
+    Functions (inbuilt function) and Types
+    Closure
+    Callbacks
+    Promises
+    Prototypes (prototype-based inheritance)
+    Array and Objects
+    Map-reduce
+    Document Object Model (DOM)
+    Introduction to ES5 and ES6 standards
+
+NodeJS Runtime Environment
+
+    Introduction to nodejs
+    Use of Node package manager (npm)
+    Asynchronous and event loop in node js
+    Events and handling Events
+    Node CLI
+    Node modules
+    File handling with node js
+    Creating HTTP server with nodejs
+    Introduction to WebSockets
+    Create real-time socket communication
+
+ExpressJS Framework
+
+    Model-view-controller (MVC) pattern in ExpressJS
+    Routes
+    HTTP interaction
+    Engine templates (jade, handlebars)
+    Request and Response
+    Form-Handling
+    Handling query parameter
+    Status code response
+    Middlewares in Express
+    User authentication using jwt (JSON web token)
+    Garbage collection and error handling
+
+MongoDB Database Program
+
+    Getting started with NoSQL (schema-less database)
+    Getting started with MongoDB (collection and documents)
+    Database modeling and Schema design (using mongoose)
+    Finding documents
+    Using robomongo (UI based database system)
+    Update, insert, delete and upsert documents
+    Aggregation in MongoDB
+
+Tier Application and REST API
+
+    Introduction to REST API
+    Building APIs with express js
+    Use MongoDB as a data store in express app with Mongoose
+
+FrontEnd Technologies
+
+    Basic Web Overview
+    Introduction to HTML
+    Introduction to CSS and its frameworks (Bootstrap)
+
+AngularJS Framework
+
+    SPA & AngularJS 2 framework architecture
+    Introduction to Typescript
+    Class-based inheritance
+    Component-based architecture
+    Module-based architecture
+    Routes
+    Data binding (one way & Two-way binding)
+    Pipes and Directives
+    Forms and Forms Validation
+    Observables & promises (rxjs map,subscribe,catch)
+    Dependency injection
+    Services ($http)
+    Decorators
+    Introduction to frontend build tools (angular CLI, Webpack)

@@ -1,0 +1,66 @@
+
+Statistical Package for the Social Sciences (SPSS)
+Course Duration: 40 hours
+Objective
+
+SPSS, known as Statistical Package for Social Sciences, has become a leading and powerful statistical analysis tool obtained by IBM. It is an applied data analysis and research methodology, used as a research weapon in multiple sectors of social science, health, marketing, medical, research centers, and many more. SPSS training courses include full coverage of SPSS statistics from fundamentals to data management, statistical analysis with the interpretation of outputs, statistical methods, and techniques for survey analysis.
+About Course
+
+SPSS training course is precisely designed to support aspiring surveyors, statisticians, and professionals involved in the field of research proposal development, data management, and data analysis. This course is designed for those students who are searching for a precise idea and make use of SPSS software to perform their statistical activities making the data management and analysis easy and accurate. In this course, you will learn the following topics:
+
+    Introduction to data analysis procedure of SPSS
+    Introduction to data design, processing from a file, edit, data, and analysis 
+    Calculating concepts for tests and performing analysis such as t-test,correlation, regression, reliability analysis, Chi-square test,
+    Non-parametric test, and factor analysis
+    Develop the concepts for data visualization through the application of charts, using chart editor and exporting charts.
+    Types and purpose of Literature Review
+    Things to consider before starting the literature review
+
+Course Overview
+
+Introduction to Research Methodology
+
+    Getting Started with the Deductive reasoning
+    Getting Started with the Inductive reasoning
+    Concepts of Research Problem
+    Understanding with IMRaD format
+
+Types of research methodology
+
+    Understanding Basic research (Fundamental research/Traditional research)
+    Understanding Applied research (Action research, Implementation research, Evaluation research, Experimental research, Operations research)
+    Understanding Descriptive research
+    Understanding Correlational research
+    Understanding Exploratory research (Feasibility study/Pilot study)
+    Understanding Explanatory research
+    Understanding Quantitative research
+    Understanding Qualitative research
+    Understanding Mixed research
+
+Types of Research variables
+
+    Understanding Dependent variables (Outcome/Response)
+    Understanding Independent variables (Predictor/Explanatory)
+    Understanding Confounding variables (Confusing/Disturbing)
+    Understanding the need for the recognition of Dependent, Independent, and Confounding variables
+    Understanding the effects of Confounding variables
+
+Methods of Research Designs-I (Observational study)
+
+    Case study
+    Case series
+    Cross-sectional study
+    Time-series study
+    Ecological study (Analysis of secular trend)
+
+Methods of Research Designs-II (Analytical study)
+
+    Case-control study
+    Cohort study
+
+Methods of Research Designs-II (Meta-analysis and Systematic reviews)
+Methods of Research Designs-III (Experimental research)
+
+    Randomized controlled trials (RCTs) (Single-blinded/masked, double-blinded, triple-blinded, open-label)
+    Quasi-experimental study
+    Pre-experimental study (Pretest-Post test)

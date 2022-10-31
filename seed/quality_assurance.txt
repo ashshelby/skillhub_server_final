@@ -1,0 +1,114 @@
+
+Quality Assurance
+Course Duration: 40 hours
+Objective
+
+Quality Assurance is a step-by-step procedure to determine whether a recently developed software is suitable for going online or offline. This course will be a guide to students regarding the role of testing in software development, manual and automated testing, different strategies and techniques for efficient analysis, and practical approaches to verify a software’s integrity. For the course study, no prior knowledge about the software is needed.
+About Course
+
+Quality Assurance course is primarily focused on providing a strong foundation on software and progressively assisting it with fundamentals of quality analysis. It is an important method for determining whether or not a developed software is actually working. During the course study, the student will be able to explore with the individual elements on how integrity can be detected, broken, and saved for future references. In this course, you will learn to:
+
+    The fundamentals of Software Development Life Cycle (SDLC) and Software Test Life Cycle (STLC)
+    Roles and responsibilities of a Quality Analyst and business analysts in SDLC
+    Core concepts of Manual and Automated Testing
+    Test design, and implementing them through practical approaches
+    Use of numerous tools such as JIRA for manual testing, Selenium for Automated testing
+    Learn how to perform security testing and performance testing in software.
+
+Course Overview
+
+Introduction to QA
+
+    Getting started with QA (Importance)
+    Project and Product (Differences)
+    Quality Assurance and Quality Control (Differences)
+    Manual and Automation testing
+    Roles and Responsibilities (Business Analyst, Developers, Architects, Project, Managers, QA)
+    Test Team (QA Manager, QA Lead, QA Engineer, Release Engineer)
+
+Introduction to Software Development Life Cycles (SDLC)
+
+    Getting started with Software Development Life Cycle Stages
+    Agile Methodologies
+    Software Testing Life Cycles
+    Testing (Types)
+    Test Platforms (Development, QC, UAT, Production)
+    Defects (Identification, Logging, Life Cycle, Priority)
+    Defect Life Cycle
+
+Quality Assurance Phases
+
+    Feature Requirement
+    Test Plan
+    Test Scenario
+    Test Cases
+    Test Data
+    Test Script
+    Decision Table
+    Test Result
+    QA Process Cycle
+
+Python Programming Basics
+
+    Comment in python
+    Main Function
+    Function Definition and Function Call
+    Conditional Statement (If-else, for-loop)
+    Indent
+    Assert
+    Try-except in python
+
+Automation Testing – Basics
+
+    Introduction to Automation Testing
+    Automation testing
+    Benefits of Automation Testing
+    Introduction to Selenium
+    Xpath and its types and examples
+    Webdriver and its action
+
+Automation Testing – Advanced
+
+    Introduction to Automation Framework
+    Accessing Multi URL via Automation
+    Read input parameters from Excel
+    Import Data from Web (Web Scraping)
+    Web data to Excel
+    Read keyword and XPATH from Excel file
+    Write Automation Test Result to Excel file
+
+Test Script, Database, and SQL – Basics
+
+    Importance of SQL in Quality Assurance
+    Introduction to the database.
+    Database Verification and Validation
+    MySQL Database, Comparison with Popular
+    Databases Oracle, MS SQL
+    Server, IBM, DB2
+    Structured Query Language (SQL)
+    Data Definition Language (DDL)
+    Data Manipulation Language (DML)
+    Introduction to Tables, Rows, Columns
+    Foreign Key, Primary Key, and Unique Key
+    What are DDL and DML, (DML) Select, Update, Delete and Insert Into statements
+    (DDL) Create, Alter, Drop statements.
+
+Performance Test – Basics
+
+    Performance testing and its importance in QA
+    Types of Performance Testing
+    API Testing with GET, POST, Delete and PUT methods
+    Common Performance Problems
+    Performance Testing Process
+    Example Performance Test Cases
+    Performance Test Using JMeter
+    Performance Test report generation
+
+Security Test- Basics
+
+    Security testing and its importance in QA
+    Types of Security Testing(
+    Authentication and Authorization
+    Example Test Scenarios for Security Testing
+    Methodologies/ Approach / Techniques for Security Testing
+    SQL Injection and XSS (cross-site scripting)

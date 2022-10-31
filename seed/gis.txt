@@ -1,0 +1,134 @@
+
+GIS
+Course Duration: 120 hours
+Objective
+
+GIS is growing its demand in the market rapidly. GIS course is specially designed to target Civil engineers, surveyors, geographic data enthusiasts, researchers, and students who have a common interest in resource management, field research, and case studies.
+About Course
+
+GIS course is targeted to learners who want to learn and write GIS code and map literacy descriptions of problems to an application coded in GIS. This is a core basic level course that is important for learners who have no prior programming experience but wish to be a professional GIS engineer in the future. We have a dedicated and creative team of experts who will assist you become a GIS expert so that you can work confidently in any organization or field you are involved in. In  this course, you will learn to:
+
+    Install GIS software and understand the foundation of the concept of GIS
+    Have a practical knowledge of map projection and development of analytical maps
+    Gain practical information regarding the development of 2D and 3D map
+    Understand and overcome the design decision and analytical challenges
+
+Course Overview
+
+Geographical Information System
+
+    Getting started with GIS
+    Understanding with Functional Component
+    Applications of GIS
+
+Understanding Remote Sensings (RS)
+
+    Principle of RS
+    Technologies used in RS
+    Applications of RS
+
+Global Positioning System (GPS)
+Basic Components of Map
+
+    Getting started with components of Map
+    Understanding Elements
+    Understanding Layers
+    Understanding Scale and Representation
+    Understanding Coordinate System
+    Understanding Projection System
+    Understanding Datum
+
+Introduction to Fundamental of Google Earth Pro
+
+    Getting started with Google Earth Pro
+    Creation of My Places
+    Saving Place (KML/KMZ)
+    Saving Image (JPEG)
+    Understanding Layers
+
+Introduction to ESRI AND ARCGIS
+
+    Understanding ESRI
+    Understanding GIS Architecture
+
+Introduction to ARC Map
+
+    Customization of ARC map
+    Addition of Data (Layer)
+    Shaping File
+    MDB
+    GDB
+    Image development (Tif, Jpeg)
+    Basic Tools
+    Understand Layers
+    Check/Uncheck Zoom to Layer
+    Attribute Table
+    Field
+    Edit Data
+    Label Features
+    Properties
+    General
+    Unit
+    Data Frame
+    Map Scale
+    Coordinate System
+    Layers Properties
+    Data Source
+    Symbology in ARC map
+    Fields
+    Definition Query
+    Selecting by Attribute
+    Selecting by Location
+    Labeling
+    Exporting Data (.shp)
+    Map Scale
+    Editor
+    Mapping Template (Layout)
+    Saving Project File (.mxd)
+
+Understanding Coordinate System
+
+    UTM
+    WGS1984
+    Grid System of Cadastral Survey of Nepal
+    Everest_Adj_1937_Transverse_Mercator
+    Calculation of X-Y in Attribute Table
+    Coordinate Transformation
+
+Understanding Geo-referencing Raster
+
+    Google Map
+    Top Map
+    Cadastral Map of Nepal (Grid Sheet)
+    Cadastral Map of Nepal (Free Sheet)
+
+Design Files and Database (Using ArcCatalogue)
+
+    Use Shape (.shp) file
+    Use File Geodatabase (.gdb)
+    Use Personal Geodatabase (.mdb)
+
+Digitizing (in terms of Vector Data)
+
+    Point Feature
+    Line Feature
+    Polygon Feature
+
+Addition of Data in Layer (Feature of ArcMap)
+
+    Use of Google Map Data (KML)
+    Use of GPS Data (GPX)
+    Use of Total Station Data (CSV)
+    Use of Excel Sheet Data (XLS)
+
+Data Conversion Methods
+
+    KML -Layer – KML
+    CAD -Layer – CAD
+    GPX -Layer
+
+Edit Layer Features
+
+    Designing Map Layout
+    Title, Body, Inset, Scale, North Arrow, Legends
+    Page and Print Set-Up

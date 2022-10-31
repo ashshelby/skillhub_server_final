@@ -1,0 +1,118 @@
+
+Data Science and Machine Learning in Python
+Course Duration: 80 hours
+Objective
+
+At its core, data science is a field of study that aims to use a scientific approach to extract meaning and insights from data. On the other hand, machine learning refers to a group of techniques used by data scientists that allow computers to learn from data. Data science and machine learning are both very popular buzzwords today.These two terms are often thrown around together but should not be mistaken for synonyms.
+About Course
+
+You will be using Python as your programming language. Python is a great tool for the development of programs that perform data analysis and prediction. It has a variety of classes and features that perform complex mathematical analyses and
+provide solutions in just a few lines of code, making it easier for you to get up to speed with data science and machine learning.Python is a very versatile language since it has a wide array of functionalities already available. The sheer range of functionalities might sound too exhaustive and complicated, you don’t need to be well-versed with them all. Most data scientists have a few go-to libraries for their daily tasks like:
+
+    for performing data cleaning and analysis – pandas
+    for basic statistical tools – numpy, scipy
+    for data visualization – matplotlib, seaborn
+
+Course Overview
+
+Python Basics
+
+    Introduction to Python Programming
+    Language
+    Core Data Structures of Python
+    Number
+    String
+    List
+    Tuples
+    Dictionary
+    Set
+    Advanced Operations on Core Data-structures
+    Decision and Branching
+    If, else if, Else, Break, Continue
+    Looping
+    for in, while
+    Functions
+    Functions
+    Lambda Functions
+    Map, Reduce, Filter
+    Function Recursion
+    Decorators
+
+Python
+
+    List and Dictionary Comprehension
+    Exceptions and Exception Handling
+    File Handling
+    Object-Oriented Programming (OOP)
+    Introduction to Classes
+    Inheritance, Encapsulation, Polymorphism,
+    Abstraction
+    Method Overloading
+    Building Custom Packages and Modules
+
+Basics of Data Science
+
+    Introduction to Data Science
+    Introduction to Numpy and Matplotlib
+    Matrix Operations with numpy
+    Random Variable and Probability
+    Distributions
+    Probability
+    Properties of Probability Distributions
+    Mean, Median, Mode
+    Variance, Skewness, Kurtosis
+    Multivariate Normal Distribution
+    Co-variance, Correlation
+    Introduction to scikit-learn
+    Data pre-processing techniques using scikit-learn
+    Dimensionality Reduction as data pre-processing
+    Principal Component Analysis (PCA)
+    Linear Discriminant Analysis (LDA)
+
+Machine Learning
+
+    Introduction to Reinforcement Learning
+    Q-Learning with Python
+    Introduction to Clustering
+    K-Means Clustering
+    Agglomerative Clustering
+    Introduction to Supervised Learning
+    Naive Bayes Classification
+    Linear and Polynomial Regression
+    K-Nearest Neighbors
+    Decision Tree
+    Balancing Bias vs Variance of ML Model
+    Ensemble Learning
+    Random Forest and Adaptive Boost
+    Identifying Important Features of Data
+    Support Vector Machines
+
+Deep Learning
+
+    Introduction to logistic regression
+    Computation Graph and Gradient Decent
+    Introduction to artificial neuron (Perceptron)
+    Multi-Layer Perceptron
+    Introduction to Artificial Neural Networks
+    Designing Artificial Neural Networks with Keras
+    Gradient Decent Variants
+    Classification and Regression using Neural Networks
+
+Deep Learning
+
+    Introduction to Convolutional Neural Network (CNN)
+    Object Classification with CNN
+    Standard CNN Architectures
+    Introduction To Object Detection
+    The YOLO Algorithm
+
+Natural language Processing + Web Interface
+
+    Introduction to NLTK
+    Text pre-processing
+    POS Tagging and Named-Entity Recognition
+    Latent Semantic Analysis
+    Introduction to Recurrent Neural Network
+    Word2Vec Algorithm for Text Vectorization
+    Natural language Processing with LSTM
+    Giving Web Interface to ML Application using Flask/Django

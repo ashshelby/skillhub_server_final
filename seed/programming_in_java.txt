@@ -1,0 +1,193 @@
+
+Programming in Java
+Course Duration: 80 hours
+Objective
+
+Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore.
+About Course
+
+Java is a multi-platform, object-oriented, and network-centric language. It is among the most used programming language. Java is also used as a computing platform. It is considered as one of the fast, secure, and reliable programming languages preferred by most organizations to build their projects. It is used for developing Android Apps and also in data science.
+Course Overview
+
+Programming With Java
+
+    Class declaration
+    Members of classes
+    Structure of java class
+    Main method
+    Command-line arguments
+    Source code compilation
+    Coding convention
+    Java packages
+
+Constants, Variables, and Datatypes
+
+    Primitives and non-primitive variables
+
+Decision and Branching
+
+    IF, ELSE, SWITCH, BREAK, CONTINUE
+
+Looping
+
+    FOR, WHILE, DO-WHILE
+
+Fundamentals of Loops
+
+    Initializing objects
+    Static members
+    Inheritance
+    Polymorphism
+    Encapsulation
+
+Abstract Classes and Interfaces
+
+    Defining interfaces
+    Separating interface and implementation
+    Implementing and extending interfaces
+    Abstract classes
+
+Exception Handling
+
+    Exceptions and the exception hierarchy
+    Throwing exceptions
+    Catching exceptions
+    Chaining exceptions
+    The finally block
+
+Advance Data Structures
+
+    Arrays
+    List<e> interface and its implementation
+    Map<k,v> interface and implementation
+    Set<e> interface and implementation
+
+JDBC Connection
+
+    Jdbc overview
+    Using driver manager, connection, statement, prepared
+    statement and resultset
+    Create, delete, insert, update statements
+
+Java Doc and Java Libraries
+
+    Preparing java doc
+    Exporting java doc
+    Implementing java libraries
+    String class
+    Math class
+
+Web Applications Basics
+
+    How the web works
+    HTTP overview, Brief HTML review
+    Overview of java ee, servlets & web applications
+
+Servlet API
+
+    Html forms
+    Http: request-response, headers, get, post
+    ● Overview: how servlets work
+    ● Servlet lifecycle: init(), service(), destroy()
+    ● Requests and responses
+    ● Http servlets: httpservletrequest, httpservletresponse and
+        httpservlet
+    ● Deployment descriptor
+    ● Accessing parameters
+
+Additional Servlet Capabilities
+
+    Request dispatcher: including and forwarding
+    Sharing data with the request object attributes
+    Sharing data with servletcontext and applicationcontext
+
+Java Server Pages
+
+    Basics and overview
+    Lifecycle of a JSP
+    Script, page directive
+    Model view controller (MVC)
+    Data sharing among servlets & jsp
+    Request, application, session, and page scope
+    Predefined JSP implicit objects (request, session, application, page)
+    <jsp:include>, <jsp:forward>
+
+Using Custom Tags
+
+    Custom tags to reduce jsp complexity
+    The jstl
+    JSP expression language (el)
+    Using custom tags
+    The c:url, c:param, c:for each, c:out tags
+
+More JSP Capabilities And Session Management
+
+    HTTP as a stateless protocol
+    Hidden form fields
+    Cookies: overview, API, using cookies
+    Session overview: cookies and session tracking
+    HTTP session
+    Putting data into a session object
+    Retrieving data from a session object
+    Using session data in servlets and JSP
+
+Additional Topics
+
+    Servlet filter overview
+    Filtering examples, lifecycle, & filter chains
+    Filter API, modifying a request, modifying a response
+
+Groovy Fundamentals
+
+    Differences between groovy and java
+    Closures
+    Lists and maps
+    Ranges
+    Lists, maps, and sets
+
+Grails Project Structure
+
+    Overview of a grails project
+    Directories for model classes, controllers, and views
+    Data source configuration
+    Command-line utilities
+    Ide integration
+
+Domain Classes
+
+    Object-relational mapping with gorm
+    Constraints and validation
+    Modeling relationships
+    Performing crud operations
+    Dynamic queries
+
+Scaffolding
+
+    Generating controllers
+    Generating views
+
+Controllers
+
+    Setting the default action
+    Accessing request attributes
+    Flash scope
+    Rendering a response
+    Redirects and returns
+
+Groovy Server Pages
+
+    Built-in grails tags
+    Layouts and templates
+    Creating custom tags
+
+Adding AJAX Support
+
+    Basics of ajax
+    Ajax-supporting tags
+    Rendering JSON and XML responses
+
+Services
+
+    Transactions
+    Services and dependency injection
+

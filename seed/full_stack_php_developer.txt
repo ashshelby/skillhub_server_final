@@ -1,0 +1,180 @@
+
+Full Stack PHP Developer
+Course Duration: 110 hours
+Objective
+
+PHP is an open-source scripting language that is easy to learn, flexible, and widely used in the present scenario. The course is designed to advance and enhance the web development skills of emerging learners in the field of web development.
+About Course
+
+Full Stack PHP course is targeted to enthusiastic learners who want to learn and grow their career in web development. This is a core-level course that is important for learners who have prior programming experience with HTML and CSS. We have an experienced and qualified team of experts who will assist you become a PHP expert so that you can work confidently in any organization or field you are involved in. In this course, you will learn to:
+
+    Build complex web applications with an ease
+    Understand the process to embed PHP directly into HTML
+    Enhance your coding performance and practice
+    Begin huge career scope as a web developer
+    Develop professionalism and increase your credibility
+
+Course Overview
+
+Getting started with Web Development Fundamentals
+
+    Introduction to Web Technology
+    Brief Introduction to HTML
+    Brief Introduction to CSS
+    Explore domains, web hosting, web protocols (HTTPS, FTP)
+    Basic understanding of Server Side Scripting Language (ASP, JSP)
+    Conversion Requirement Into Design (USE Case
+    Diagram, EER Model, Scheme diagram)
+
+Understanding PHP Basic
+
+    Types of variables and constants
+    Understanding Arrays and their types in PHP (Indexive / Associative)
+    Single Dimensional & Multi-Dimensional Arrays
+    Methods to access Arrays
+    Functions of Arrays (Sorting, Merging, etc..)
+
+Control Structures
+
+    Introduction to Data Types
+    Categorize Data Types
+    Introduction to Operators and its types
+    Understanding types of Errors
+
+Conditional Statements and Looping Types
+
+    Introduction to Conditional Statements (Why)
+    Types of Conditional Statements (If, Nested If, Switch)
+    Introduction to Looping Statements (Why)
+    Types of Looping Statements (For, While, Do While)
+
+Introduction to Functions
+
+    Application of Function
+    Types of Function (With or Without Parameters)
+
+Strings and Patterns
+
+    Introduction to string and patterns
+    Comparison of Strings
+    Functions of strings ( extraction of substring, length of string, case sensitive comparison)
+
+Arrays
+
+    Introduction to Array
+    Array and Memory Allocation relationship
+    Types of Array (Single, Multi-Dimensional, and Mixed)
+    Numeric key Array
+    Associative key Array
+    Application of Array in developing real-world applications
+
+Session and Cookies
+
+    Introduction to Session and Cookies
+    Creating Cookies
+    Expiration of Cookies
+    Creating Session
+    Assigning values to session variables
+    Destroying session and session data
+
+HTTP Verbs and Methods
+
+    PUT, GET, POST, DELETE Method
+    Form Handling
+    Using different form inputs to create a form
+    Using HTML 5 attributes to create a form mark up
+
+Database Programming in PHP
+
+    Getting started with Database and tables, database objects
+    Introduction to Database Management System
+    Relational Database management System and Database Management
+    System (Comparison)
+    Introduction to MySQL
+    Entity and Attributes
+    Data Types
+    Introduction to Query
+
+MySQL with Command Prompt
+
+    Using MYSQL with Command Prompt
+    Creation and management of database
+    Selection of database
+    Creation of tables
+    Introduction to Primary Key, Foreign Key Relationship and Mapping
+    Auto Increment and Indexing columns in tables
+    Inserting data into tables using query
+    Updating Data and Table Structure
+    Select data from the table in different ways
+    Deleting tables and drop database
+    Alter Table structure
+    Types of JOINS in MYSQL
+    VIEWS, Stored Procedures, MySQL built-in functions, User-defined functions in MySQL
+    Use phpMyAdmin/ MySQL Workbench to handle database
+
+Object-Oriented Programming (OOP) in PHP
+
+    Getting started with OOP (With Examples)
+    Inheritance, Encapsulation, Abstraction, etc.
+    Creation and Definition of Class in PHP
+    Instantiating a class
+    Inheritance
+    Introduction to Interface and functions
+    Constructors and Destructors
+    Preventing a Class from Inheritance
+    Access Modifiers (Public, Private and Protected illustrations ) in OOP
+    Magic Functions
+
+XML in PHP
+
+    Parsing XML
+    Fetch and handle RSS Feeds
+    Use XML as a String
+
+Web Security
+
+    Introduction to Web Security
+    SQL Injection and Cross-Site Scripting
+    Attacks Preventions (How)
+    Implementation of Security in PHP
+    Security concerns in MySQL
+    Security concerns in the Web Authoring Tool
+
+File Handling in PHP
+
+    Sending Emails with PHP
+    Introduction and understanding to SMTP
+    File Handling Reading and Writing into files using different modes
+    Introduction to FTP
+    Use FileZilla, CPanel with examples
+
+Javascript and Jquery Basics
+
+    Introduction to JavaScript
+    Data types, operators, conditions
+    Events, function
+    Array and Objects
+    Jquery Syntax, Events
+    Query functions
+
+Techniques for Project Development
+
+    Understanding the Agile Methodology / Xtreme Programming
+    Defining and Choosing project Topics based on Extreme Programming / Waterfall Model / Prototype Model
+    Create a project Architecture
+    Create a designing database
+    Introduction to ER Diagram and Use Case Diagram
+    Prototyping
+    Develop a WireFrame with tools (such as Blasamique wireframe)
+    Template regarding the HTML markup / CSS
+    Convert the project to machine level language with complete OOP
+
+Project Development on OOP
+
+    Insert/Update/Delete Using PHP classes
+    User login and authentication
+    Include search and pagination in the project.
+    Ajax Implementation
+    Using third party jquery, javascript, and PHP Libraries
+    Complete the project and handle error debugging / and maintenance
+

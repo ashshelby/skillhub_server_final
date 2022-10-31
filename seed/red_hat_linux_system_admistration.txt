@@ -1,0 +1,140 @@
+
+Red Hat Linux (System Administration)
+Course Duration: 80 hours
+Objective
+
+Red Hat Linux consists of the course structure in three levels for beginners to professionals where in level 1 we have Linux System and Networking Administration, in level 2 we have Linux System and Networking Administration and in level 3 we have Linux System and Networking Administration.
+About Course
+
+Red Hat Linux course is one of the popular certification course designed for networking professionals operating the Red Hat Operating System. The main motive of the course is to provide technical skills to networking engineers so that they can manage Red Hat Linux. The course encourages the networking professionals interested in open source technology to become more familiar with Linux network administration. In this course you will learn to:
+
+    Operate Red Hat System Administration
+    Efficiently setup, configure and manage Red Hat servers
+    Configure system logging and remote logging
+    Implement secure networking services in Linux environment
+
+Course Overview
+
+Target Group
+
+    Anyone who has worked and is familiar with any applications of UNIX (Linux, Solaris, HP-UX, AIX etc.) as a user (not necessarily as an administrator), or have done some system administration on Windows NT, you will find the course to be attainable.
+
+Linux System and Networking Administration: LEVEL 1 Course Structure
+
+Understanding and Using ESSENTIAL TOOLS
+
+    Accessing a shell prompt and issuing commands with correct syntax
+    Using input-output redirection (>, >>, |, 2>, etc.)
+    Using grep and regular expressions to analyze text
+    Accessing remote systems using ssh
+    Logging in and switching users in multiuser targets
+    Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+    Creating and editing text files
+    Creating, deleting, copying, and moving files and directories
+    Creating hard and soft links
+    List, set, and change standard ugo/rwx permissions
+    Locating, reading, and using system documentation including man, info, and files in /usr/share/doc
+
+Operation for Running Systems
+
+    Boot, reboot, and shut down a system normally
+    Boot systems into different targets manually
+    Interrupt the boot process in order to gain access to a system
+    Identification of CPU/memory intensive processes, adjust
+    process priority with renice, and kill processes
+    Locate and interpret system log files and journals
+    Access of virtual machine’s console
+    Start and stop virtual machines
+    Start, stop, and check the status of network services
+    Securely transfer files between systems
+
+Configure of Local Storage
+
+    List, create, delete partitions on MBR and GPT disks
+    Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volume Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label
+    Add new partitions and logical volumes, and swap to a system non-destructively
+
+Lab Assignments will also be provided for better practice regarding the contents covered in the lectures.
+
+Linux System and Networking Administration: LEVEL 2 Course Structure
+Creation and Configuring File Systems
+
+    Creating, mounting, unmounting, and using vfat, ext4, and xfs file systems
+    Mounting and unmounting CIFS and NFS network file systems
+    Extending existing logical volumes
+    Creating and configuring set-GID directories for collaboration
+    Creating and managing Access Control Lists (ACLs)
+    Diagnose and correct of file permission problems
+
+Deploying, Configuring, and Maintaining Systems
+
+    Configuring networking and hostname resolution statically or dynamically
+    Scheduling tasks using at and cron
+    Starting and stopping services and configure services to start automatically at boot
+    Configuring systems to boot into a specific target automatically
+    Installing Linux systems as virtual guests
+    Configuring systems to launch virtual machines at boot
+    Configuring network services to start automatically at boot
+    Configuring a system to use time services
+    Installing and updating software packages from Network, a remote repository, or from the local file system
+    Updating the kernel package appropriately to ensure a bootable system
+    Modifying the system boot loader
+
+MANAGE USERS AND GROUPS
+
+    Creating, deleting, and modifying local user accounts
+    Changing passwords and adjusting password aging for local user accounts
+    Creating, deleting, and modifying local groups and group memberships
+    Configuring a system to use an existing authentication service for user and collect information
+
+MANAGE SECURITY
+
+    Configuring firewall settings using firewall-config, firewall-cmd, or iptables
+    Configuring key-based authentication for SSH
+    Setting enforcements and permissive modes for SELinux
+    Listing and identifying SELinux file and process context
+    Restoring default file contexts
+    Using boolean settings to modify system SELinux settings
+    Diagnose and address routine for SELinux policy violations
+
+Lab Assignments will also be provided for better practice regarding the contents covered in the lectures.
+
+Linux System and Networking Administration: LEVEL 3 Course Structure
+
+System Configuration and Management
+
+    Routing IP traffic and creating static routes.
+    Using iptables to implement packet filtering and configure network address translation (NAT).
+    Using /proc/sys and sysctl for modification and setting kernel runtime parameters.
+    Configuring a system to authenticate using Kerberos.
+    Configuring a system as an iSCSI initiator that persistently mounts an iSCSI target.
+    Producing and delivering reports on system utilization (processor, memory, disk, and network).
+    Using shell scripting to automate system maintenance tasks.
+    Configuring a system to log to a remote system.
+    Configuring a system to accept logging from a remote system.
+
+Networking Services
+
+    Installation of the packages is needed to provide the service.
+    Configuration of SELinux to support the service.
+    Configuration of the service to start when the system is booted.
+    Configuration of the service for basic operation.
+    Configuration of host-based and user-based security for the service.
+
+HTTP/HTTPS, DNS, FTP NFS, SMB, SMTP, SSH & NTP
+
+    Configuration of a virtual host
+    Configuration of private directories.
+    Deployment of a basic CGI application.
+    Configuration of group-managed content.
+    Configuration of a caching-only name server
+    Configuration of a caching-only name server to forward DNS queries.
+    Providing network shares to specific clients.
+    Providing network shares suitable for group collaboration.
+    Configuring a mail transfer agent (MTA) for acceptance of inbound email from other systems.
+    Configuring an MTA to forward (relay) email through a smart host.
+    Configuring key-based authentication.
+    Configuring additional options described in documentation.
+    Synchronization of time using other NTP peers.
+
+Lab Assignments will also be provided for better practice regarding the contents covered in the lectures.

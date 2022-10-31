@@ -1,0 +1,13 @@
+
+AWS
+Course Duration: 40 hours
+Objective
+
+This curriculum provides skills & knowledge necessary for AWS Cloud Practitioner. There will be both demonstrations by instructors/trainers and opportunities by trainees to perform skills/tasks specified in this curriculum. Trainees will practice & learn skills using typical tools, materials, equipment & machines necessary for the program. Topics covered in this course include:
+
+    AWS Cloud and its global infrastructure
+    AWS core services with their use cases
+    Basic AWS Cloud architectural principles, security, aspects of compliance, and shared security model
+    Billing, account management, and pricing models
+    Lab work for every service discussed
+    Exam formats and preparation quizzes

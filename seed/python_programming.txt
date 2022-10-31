@@ -1,0 +1,135 @@
+
+Python Programming
+Course Duration: 80 hours
+Objective
+
+Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python was created by Guido van Rossum in the late eighties and early nineties. Like Perl, Python source code is also now available under the GNU General Public License (GPL).
+About Course
+
+The training starts with setting up Python on your machine, followed by fundamentals of programming concepts in Python. This course teaches how to program using the Python programming language. This is a core basic level course that is essential for anyone who has no prior programming experience but wishes to be a professional Python engineer in future Programming in Python.
+Course Overview
+
+Basic Control Flows
+
+    If statements
+    For statements
+    Range() function
+    Pass statements
+    Defining functions
+    Lambda, reduce, map function
+
+Data Structures
+
+    List as stack
+    List as queue
+    List comprehensions
+    Tuples and sequences
+    Sets
+    Dictionary and looping techniques
+    Date and Time
+
+Exceptions
+
+    Errors
+    Exceptions
+    Handling Exceptions
+    Raise exceptions
+
+File I/O Operations
+
+    File read
+    File write
+    Formatted output
+
+Classes/ Objects
+
+    Defining classes
+    Defining objects
+    Inheritance
+    Data member of python class
+    Methods of python class
+
+Web Programming Introduction
+
+    Web programming with django
+    Basic overview and installation
+    Basic flow of django
+    Templates view and Model Concept
+    Urls and templates
+    Settings Files
+
+Introduction to PYTHON For DATA SCIENCE
+
+    Python Basics
+    Different data types
+
+PYTHON Lists
+
+    Store many different data points under a single name
+    Create, subset, and manipulate
+    Lists in all sorts of ways
+
+Functions and Packages
+
+    Importing Python packages
+    Calling functions
+    Numpy
+    Write superfast code with Numerical Python
+    Create different types of visualizations A package to efficiently store
+    Calculations with huge amounts of data
+
+MATPLOTLIB
+
+    Create different types of visualizations
+    Learn how to build complex and customized plots based on real data.
+
+CONTROL FLOW and PANDAS
+
+    Write conditional constructs to tweak the execution of scripts
+    The Pandas DataFrame
+    The key data structure for Data Science in Python
+
+PYTHON For Data Science
+
+    Getting Started with Data Science
+    Data Science: Generating value from Data
+    The Data Science Process
+    Week Assignment
+
+Background in PYTHON And UNIX
+
+    Key Data Structures
+    Week Assignment
+
+JUPYITER NOTEBOOKS and NUMPY
+
+    Jupyter Notebooks
+    Numpy Advance tutorial practice
+    Satellite Image Application in numpy
+    Week Assignment
+
+PANDAS
+
+    Working with pantaa
+    Week Assignment
+
+Data Visualization
+
+    Introduction to Data Visualization
+    Case Studies
+    Matplotlib and other Libraries
+    Week Assignment
+
+Introduction to Machine Learning
+
+    Regression Classification
+    Clustering
+    Analysis
+    Week Assignment
+
+Working with Texts and Databases
+
+    Working with Databases
+    Natural Language Processing
+    Working with Text
+    Week Assignment

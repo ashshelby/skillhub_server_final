@@ -1,0 +1,104 @@
+
+Programming in Dot Net
+Course Duration: 80 hours
+Objective
+
+.Net Framework is a software development platform developed by Microsoft for building and running Windows applications. The .Net framework consists of developer tools, programming languages, and libraries to build desktop and web applications. It is also used to build websites, web services, and games.
+About Course
+
+The .Net framework was meant to create applications, which would run on the Windows Platform. The framework also supports various  programming languages such as Visual Basic and C#. So developers can choose and select the language to develop the required application. In this chapter, you will learn some basics of the .Net framework.
+Course Overview
+
+Introduction To ASP.NET
+
+    What is ASP.NET Core?
+    ASP.NET Core Features
+    Advantages of ASP.NET Core
+    MVC Pattern
+    Understanding ASP.NET Core MVC
+    ASP.NET Core vs. ASP.NET MVC vs. ASP.NET Web Forms
+
+Concepts For Coding Better Application
+
+    Coding Standards
+    Application Architecture
+    Solid Principles
+    Performance
+    Security
+    UX
+
+ASP.NET Core First Application
+
+    ASP.NET Core Environment Setup
+    ASP .NET Core First Application
+    Understanding Application Architecture
+
+Controllers & Action Methods
+
+    Controllers Overview
+    Action Methods and IActionResult object
+    Passing data from Controller to View
+    Understanding Action Selectors
+    Action Filters
+    Building Custom Action Filters
+    Middle ware
+    Asynchronous Action Methods
+
+Views
+
+    Introducing Razor View
+    Advantages of Razor View
+    Razor Syntax
+    Types of Views
+    Partial Views
+
+Dependency Injection
+
+    Built-in IoC Container
+    Registering Application Service
+    Understanding Service Lifetime
+    Injection
+
+Validations & Data Annotations
+
+    Data Annotations and Validations Overview
+    Validations with Data Annotation
+    Server-Side and Client-Side Validation
+    Custom Server-side validation
+    Model-level validation using IValidatableObject
+    Custom unobtrusive Client-side Validation
+    Remote Validation
+
+State Management Techniques
+
+    Client-Based State Management including Cookies, View Data, View Bag, and Temp Data
+    Server-Based State Management Including Session Security
+    Authentication and Authorization
+    Using JWT Authentication
+
+Routing
+
+    Url Routing Overview
+    Custom Routes
+    Attribute Routing
+    Routing Constraints
+
+Module Development
+
+    Understanding Areas
+    Adding Areas
+    Defining Area Routes
+    Linking between Areas
+
+Jquery Ajax & WebAPI
+
+    Introduction
+    JavaScript fundamentals
+    Calling Controller Actions using Ajax
+    WebAPI
+
+Concepts
+
+    Troubleshooting, Error Handling, and Logging
+    Environment Variable
+    Deployment
